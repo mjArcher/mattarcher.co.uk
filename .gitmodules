@@ -1,0 +1,6 @@
+[submodule "projects/visibility"]
+	path = projects/visibility
+	url = https://github.com/mjArcher/visibility
+[submodule "projects/flag"]
+	path = projects/flag
+	url = https://github.com/mjArcher/flag

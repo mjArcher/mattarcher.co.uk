@@ -7,10 +7,10 @@
 # mput *
 # ls 
 # EOT
-jekyll build
+# jekyll build
 ncftp mattarcher << EOT
 cd public_html
-lcd /home/matt/projects/web/cv_mattarcher.co.uk/_site/
+lcd /home/matt/Projects/web/jekyllsites/cv_mattarcher.co.uk/_site/
 put -R . 
 EOT
 
