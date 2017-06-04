@@ -4,3 +4,6 @@
 [submodule "projects/flag"]
 	path = projects/flag
 	url = https://github.com/mjArcher/flag
+[submodule "projects/delaunay-js"]
+	path = projects/delaunay-js
+	url = https://github.com/mjArcher/delaunay-js
