@@ -7,3 +7,6 @@
 [submodule "projects/delaunay-js"]
 	path = projects/delaunay-js
 	url = https://github.com/mjArcher/delaunay-js
+[submodule "projects/curl-perlin"]
+	path = projects/curl-perlin
+	url = https://github.com/mjArcher/curl-perlin.git
